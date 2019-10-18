@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lokalisasiku</string>
+    <string name="reg">Form Pendaftaran</string>
+    <string name="name">Nama</string>
+    <string name="name_hint">Masukkan nama lengkapmu di sini</string>
+    <string name="Email">Email</string>
+    <string name="Email_hint">Masukkan Emailmu di Sini</string>
+    <string name="gender">Jenis Kelamin</string>
+    <string name="male">Laki-Laki</string>
+    <string name="female">Perempuan</string>
+    <string name="agreement">Saya sudah membaca dan menyetujui peraturan</string>
+    <string name="submit">Daftar</string>
+    <string name="language">Ganti Bahasa</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyLocalization</string>
+    <string name="reg">Register Form</string>
+    <string name="name">Name</string>
+    <string name="name_hint">Fill Your Full Name Here</string>
+    <string name="Email">Email</string>
+    <string name="Email_hint">Fill Your Email Here</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="agreement">I have read and agree with the terms</string>
+    <string name="submit">Submit</string>
+    <string name="language">Change Language</string>
+</resources>
